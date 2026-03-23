@@ -1,0 +1,28 @@
+Part A
+For each question: What is the missing operation (?)
+
+Example:
+
+{1, 2} ? {3, 4} = {1, 2, 3, 4}
+
+Answer: | , because-
+
+{1, 2} | {3, 4} = {1, 2, 3, 4}
+
+Solve:
+
+1. Answer: |  ,because- איחוד של 2 סטים
+
+2. Answer: &  ,because-התקבל מה שמשותף
+
+3. Answer: - ,because- התקבל מה שיש בסט הראשון אבל לא בשני
+
+4. Answer: ^ ,because- התקל הכל חו ממה שמשותף לסטים
+
+5. Answer:  {1, 2, 3, 4}.issuperset({1, 2}),because- כל האלמנטים בסט הקטן נמצאי בשני
+
+6. Answer: {1, 2}.issubset({1, 2, 3, 4}),because-
+
+7. Answer: |  ,because- איחד את שני הסטים-ללא כפילויות
+
+8. Answer: - ,because-  התקבל מה שיש ברשימה הראשונה אבל לא בשניה
